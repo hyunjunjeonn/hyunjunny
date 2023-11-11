@@ -15,3 +15,4 @@ st.dataframe(dataframe, use_container_width=False)
 st.table(dataframe)
 
 st.metric(label="온도", value="10'C", delta="1.2C")
+st.metric(label="삼성전자", value="61000 원", delta="-3200 원")
