@@ -11,4 +11,7 @@ dataframe = pd.DataFrame({
 
 st.dataframe(dataframe, use_container_width=False)
 
+st.metric(label="온도", value="10'C", delta="1.2C")
+
 st.table(dataframe)
+
