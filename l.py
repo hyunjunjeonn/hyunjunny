@@ -27,8 +27,8 @@ tab1, tab2 = st.tab("Cat","Dog")
 
 with tab1:
   st.header("A cat")
-  st.image("",width=200)
+  st.image("R68eywp-W.jpg",width=200)
 
 with tab2:
   st.header("A dog")
-  st.image("",width=200)
+  st.image("R68eywp-W.jpg",width=200)
